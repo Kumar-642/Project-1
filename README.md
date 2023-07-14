@@ -1,7 +1,7 @@
 # Sentiment Analysis
   The objective of this assignment is to extract textual data articles from the given URL(Input data) and perform text analysis to compute variable
   s that are explained below: 
-                POSITIVE SCORE
+      POSITIVE SCORE
                 NEGATIVE SCORE
                 POLARITY SCORE
                 SUBJECTIVITY SCORE
